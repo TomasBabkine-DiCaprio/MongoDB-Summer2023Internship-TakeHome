@@ -4,7 +4,7 @@ For this assignment, developers had to write an algorithm which takes as input a
 
 
 # Python Version
-To merge two flattened dictionaries together, I used the union operator. This is a new feature that was discussed in [PEP 584](https://peps.python.org/pep-0584/) and officially released with Python 3.9.0 in October 2020. 
+To merge two flattened dictionaries together, I used the union operator. This is a new feature that was discussed in [PEP 584](https://peps.python.org/pep-0584/) and officially released with Python 3.9.0 in October 2020. Please keep in mind that this will most probably not work with a version of Python that was released prior to October 2020.
 
 
 # How to run my solution
