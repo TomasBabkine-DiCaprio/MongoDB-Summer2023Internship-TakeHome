@@ -51,8 +51,3 @@ if __name__ == '__main__':
         # output the flattened JSON object to the outputs folder as a .json file
         with open(f"./outputs/{fileName[-1]}", "w") as outfile:
             json.dump(flattenedDict, outfile)
-
-
-# mention python version
-# mention JSON conversion
-# convert to JSON Object, not dict
