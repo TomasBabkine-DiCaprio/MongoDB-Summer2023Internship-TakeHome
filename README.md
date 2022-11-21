@@ -1,6 +1,6 @@
 This is my submission for the  MongoDB Summer 2023 Software Engineer Internship take home assessment.
 
-For this assessment, developers had to write an algorithm which takes as input a JSON object and outputs a flattened JSON object. I solved this coding challenge using Python3.
+For this assessment, developers had to write an algorithm which takes as input a JSON object and outputs a flattened JSON object. I implemented my solution in Python3.
 
 
 ## Python Version
@@ -8,14 +8,14 @@ To merge two flattened dictionaries together, I used the union operator. This is
 
 
 ## How to run my solution
-In the ```root``` directory, run the following command:
+In the ```root``` directory of the project, run the following command:
 ``` Bash
 python3 flatten.py '<path to JSON object>' '<path to other JSON object>' '<path to other JSON object>'
 ```
 
 It's possible to flatten multiple objects with one command by providing multiple paths to JSON objects separated by spaces. Keep in mind that the paths need to be encased in 'quotation marks'.
 
-The results of the script are outputted as JSON files to the ```output``` folder. The outputted files will have the same name as the inputted file. For convenience, I have also added a few JSON objects to the ```data``` folder to test my solution against. These were inspired by the ones found [here](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html#Example2).
+The results of the script are outputted as JSON files to the ```output``` folder. The name of the output file corresponds to the name of the input file. For convenience, I have also added a few JSON objects to the ```data``` folder to test my solution against. These were inspired by the ones found [here](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html#Example2).
 
 
 ## How to run the tests to my solution
