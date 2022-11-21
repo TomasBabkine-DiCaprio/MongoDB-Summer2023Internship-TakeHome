@@ -1,6 +1,6 @@
 This is my submission for the  MongoDB Summer 2023 Software Engineer Internship take home assessment.
 
-For this assessment, developers had to write an algorithm which takes as input a JSON object and outputs a flattened JSON object. I solved this coding challenge using Python3.
+For this assessment, developers had to write an algorithm which takes as input a JSON object and outputs a flattened JSON object. I implemented my solution in Python3.
 
 
 ## Python Version
