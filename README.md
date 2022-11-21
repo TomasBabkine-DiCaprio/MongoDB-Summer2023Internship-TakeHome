@@ -8,7 +8,7 @@ To merge two flattened dictionaries together, I used the union operator. This is
 
 
 ## How to run my solution
-In the ```root``` directory, run the following command:
+In the ```root``` directory of the project, run the following command:
 ``` Bash
 python3 flatten.py '<path to JSON object>' '<path to other JSON object>' '<path to other JSON object>'
 ```
